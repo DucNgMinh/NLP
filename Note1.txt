@@ -1,0 +1,17 @@
+Buoi 2
+Topic: Autocorrection
+* Data Preparation (process_data, calculate frequency, probability)
+* String Manipulations (delete, switch, replace, insert)
+* Combine the Edits (edit_one_letter, edit_two_letter, get_corrections)
+* Minimum edit distances IMPORTANT !!!!!!
+
+Buoi 3 
+Topic: N-gram language model from text corpus
+* Process text
+* Out of vocabulary words
+* Smoothing for previously unseen N-grams
+* Language model evaluation
+----> Sentence auto-complete
+
+
+
