@@ -13,6 +13,26 @@ Topic: N-gram language model from text corpus
 * Language model evaluation
 ----> Sentence auto-complete
 
+Buoi 4
+Topic: Basic words Representation
+* One-hot Vectors
+* Word-Embedding
 
+Term-document matrix
+Word-Word matirx (term-context matrix)
+Word similarity
 
+<<<<<<< HEAD
 
+=======
+- tf-idf
+w_t,d = tf_t,d * idf_t
+tf: số lượng từ t xuất hiện trong văn bản
+df: số lượng document xuất hiện từ t
+idf: inverse of df
+
+PPMI (Positive Pointwise Mututal Information)
+Weighting PMI
+
+- Word2vec (skipgram, CBOW)
+>>>>>>> 69f6481ff12bfb1c6a8a259898836b411f96b95f
